@@ -11,7 +11,7 @@ Estudante de Engenharia de Computação com foco em desenvolvimento de software 
 | Linguagens de Programação | Sistemas Operacionais | Banco de Dados | BI & Outros |
 | :---: | :---: | :---: | :---: |
 | C++ | Linux | SQL | Power BI |
-| Java | Windows | - | Excel |
+| Java | Windows | T-SQL | Excel |
 | Python | - | - | - |
 | C# | - | - | - |
 
