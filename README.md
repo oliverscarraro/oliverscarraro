@@ -15,7 +15,7 @@ As seguintes tecnologias fazem parte dos meus estudos e projetos atuais:
 | Linguagens de Programação | Sistemas & Banco de Dados | Ferramentas de BI & Outros |
 | :---: | :---: | :---: |
 | C++ | Linux | Power BI |
-| Java | C# | SQL |
+| Java | Windows | SQL |
 | Python | - | Excel |
 
 <br>
