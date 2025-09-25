@@ -8,16 +8,15 @@ Estudante de Engenharia de Computação com foco em desenvolvimento de software 
 
 ### ► Competências e Tecnologias
 
-As seguintes tecnologias fazem parte dos meus estudos e projetos atuais:
-
-| Linguagens de Programação | Sistemas & Banco de Dados | Ferramentas de BI & Outros |
-| :---: | :---: | :---: |
-| C++ | Linux | Power BI |
-| Java | Windows | SQL |
-| Python | - | Excel |
-| C# | - | - |
+| Linguagens de Programação | Sistemas Operacionais | Banco de Dados | BI & Outros |
+| :---: | :---: | :---: | :---: |
+| C++ | Linux | SQL | Power BI |
+| Java | Windows | - | Excel |
+| Python | - | - | - |
+| C# | - | - | - |
 
 ---
+
 
 ### ► Contato Profissional
 
