@@ -2,7 +2,7 @@
 
 ---
 
-Estudante de Engenharia de Computação com foco em desenvolvimento de software e sistemas de baixo nível. Busco ativamente por uma oportunidade de estágio para aplicar e expandir meus conhecimentos em um ambiente profissional, com grande interesse em C++, sistemas embarcados, redes e Linux.
+Estudante de Engenharia de Computação com foco em desenvolvimento de software e sistemas de baixo nível. Busco por uma oportunidade de estágio para aplicar e expandir meus conhecimentos em um ambiente profissional, com grande interesse em C++, sistemas embarcados, redes e Linux.
 
 ---
 
